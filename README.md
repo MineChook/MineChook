@@ -1,6 +1,6 @@
-# 👋 Welcome to the world of ThatKid!
+# 👋 Welcome to the world of Chickens
 
-Like the name suggests, I'm ThatKid, yk ThatKid that thinks he knows everything. Anyway!
+Like the name suggests, I love Chickens.
 If you see my code around here, you probably know I love experimenting and building cool stuff—especially in the Minecraft universe.
 
 ---
