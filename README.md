@@ -1,11 +1,11 @@
-# 👋 Welcome to the world of Chickens
+# Welcome to the world of Chickens
 
 Like the name suggests, I love Chickens.
 If you see my code around here, you probably know I love experimenting and building cool stuff.
 
 ---
 
-## 🛠️ What I Can Do
+## What I Do
 
 - **Kotlin** – My main language (and where I feel most at home)
 - Python, Java, JavaScript, TypeScript, C++ – I get by pretty well!
@@ -14,13 +14,13 @@ If you see my code around here, you probably know I love experimenting and build
 
 ---
 
-## 🌱 What’s Next?
+## What’s Next?
 
 - Maybe eventually tackling Rust.
 
 ---
 
-## 🚧 Current Projects
+## Current Projects
 
 ### Chess Engine
 Right now, I'm working on a C++ project for me and my Dad. **A Chess Application that lets you play against bots and other people. The chess engine also does Analysis of your games so you can always improve. (check it out at [`Chess`](https://github.com/MineChook/Chess).  
