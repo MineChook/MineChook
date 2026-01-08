@@ -7,8 +7,8 @@ If you see my code around here, you probably know I love experimenting and build
 
 ## What I Do
 
-- **Kotlin** – My main language (and where I feel most at home)
-- Python, Java, JavaScript, TypeScript, C++ – I get by pretty well!
+- **Java** where I'm doing well at (blame minecraft for choosing Java so if I want to mod it I have to learn it).
+- Python, JavaScript, TypeScript, C++ – I get by pretty well!
 - HTML – Not bad at all
 - CSS – ...let's just say it's a work in progress
 
